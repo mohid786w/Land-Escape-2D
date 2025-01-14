@@ -1,5 +1,7 @@
 # Land-Escape-2D
-Objective: The goal is to finish each level as fast as you can while dodging obstacles and gathering power ups. 
+**Objective:**
+
+The Main objective is to finish each level as soon as possible while accumulating as much cash and health power ups as you can. Players can compete for the fastest timings by seeing their completion times on a leaderboard.The goal is to finish each level as fast as you can while dodging obstacles and gathering power ups. 
  
 Game Mechanics: 
 
