@@ -4,13 +4,16 @@ Objective: The goal is to finish each level as fast as you can while dodging obs
 Game Mechanics: 
 
 Game Controls: 
+
 Left Arrow/ A = Left Movement  
 
 Right Arrow / B = Right Movement 
 
 Up Arrow / W = Jump 
 
-Holding space = Attack Escape Button = Pause Menu 
+Holding space = Attack 
+
+Escape Button = Pause Menu 
  
 Health System: 
 
